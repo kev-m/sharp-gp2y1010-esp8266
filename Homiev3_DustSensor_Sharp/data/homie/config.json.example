@@ -9,7 +9,7 @@
     "mqtt": {
       "host": "<MQTT broker IP>",
       "port": 1883,
-      "base_topic": "<base topic>/"
+      "base_topic": "homie/"
     },
     "ota": {
       "enabled": true
