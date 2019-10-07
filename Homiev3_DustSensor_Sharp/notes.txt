@@ -1,0 +1,8 @@
+
+https://homieiot.github.io/
+https://github.com/homieiot/homie-esp8266/tree/develop-v3
+https://homieiot.github.io/homie-esp8266/docs/develop-v3/others/ota-configuration-updates/
+https://github.com/homieiot/homie-esp8266/tree/develop/scripts/ota_updater
+
+Datasheet:
+http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y1010au_e.pdf

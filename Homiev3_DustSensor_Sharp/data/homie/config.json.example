@@ -1,0 +1,21 @@
+{
+    "name": "Dust Sensor",
+    "device_id": "dust-1",
+    "device_stats_interval": 300,
+    "wifi": {
+      "ssid": "<SSID>",
+      "password": "<Password>"
+    },
+    "mqtt": {
+      "host": "<MQTT broker IP>",
+      "port": 1883,
+      "base_topic": "<base topic>/"
+    },
+    "ota": {
+      "enabled": true
+    },
+    "settings": {
+      "interval" : 60
+    }
+}
+
