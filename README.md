@@ -61,6 +61,7 @@ Clone this repository and load the "Homiev3_DustSensor_Sharp" project into the A
 You will need to manually install the Homie [dependencies](https://homieiot.github.io/homie-esp8266/docs/develop-v3/quickstart/getting-started/).
 
 Examples that worked for me are:
+
 1. [async-mqtt-client-0.8.1](https://codeload.github.com/marvinroger/async-mqtt-client/zip/v0.8.1)
 1. [ESPAsyncWebServer](https://codeload.github.com/me-no-dev/ESPAsyncWebServer/zip/2f3703702987e31249d4c5c9d1f90cebf1ffa9e8)
 1. [ESPAsyncTCP](https://codeload.github.com/me-no-dev/ESPAsyncTCP/zip/b4f18df384c291bf15a4d7c499e06b7e0a9884c5)
@@ -83,6 +84,7 @@ that the sesnor output (Vo) will not exceed the maximum rated voltage of the ESP
 ## The Data
 
 The data is output on two MQTT topics, *count* and *histo* as follows:
+
 1. <topic_prefix>/<device_id>/dust-counts/count
 1. <topic_prefix>/<device_id>/dust-counts/histo
 
@@ -106,4 +108,5 @@ In Arduino.cc, use CTRL-SHIFT-S to export the binary to the project directory.
 
 ## TODOs
 For future work:
+
 1. Make it sleep for X minutes, sample for Y seconds, then report.
