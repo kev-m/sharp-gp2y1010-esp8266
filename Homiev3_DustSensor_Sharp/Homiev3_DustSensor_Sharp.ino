@@ -89,7 +89,7 @@ void setup() {
 
   // Set Homie LED pin to GPIO2
   Homie.setLedPin(2, LOW);
-  Homie_setFirmware("sharp-GP2Y1010", "1.0.0"); // The underscore is not a typo! See Magic bytes
+  Homie_setFirmware("sharp-GP2Y1010", "0.1"); // The underscore is not a typo! See Magic bytes
 
   // Populate the node name with default + setting
   delaySetting.setDefaultValue(60);
