@@ -54,7 +54,7 @@ See [JSON configuration file](https://homieiot.github.io/homie-esp8266/docs/deve
 
 ## Compilation
 
-This project is intended for the Ardiono IDE.
+This project is intended for the Arduino IDE.
 
 Clone this repository and load the "Homiev3_DustSensor_Sharp" project into the Arduino IDE.
 
