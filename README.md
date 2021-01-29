@@ -1,3 +1,7 @@
+# OBSOLETED
+*Note: I no longer maintain this project on Github. I have migrated the project to [Gitlab](https://gitlab.com/kev-m/sharp-gp2y1010-esp8266).*
+
+# Legacy
 **About**
 
 This program uses a [Sharp GP2Y1010](http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y1010au_e.pdf) 
